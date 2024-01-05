@@ -1,4 +1,4 @@
- mpd_music_dir = "~/Music"  
+ mpd_music_dir = "~/music"  
  lyrics_directory  = ~/.config/ncmpcpp/lyrics
  ncmpcpp_directory  = ~/.config/ncmpcpp
  mpd_host = "localhost"
@@ -37,7 +37,7 @@ default_place_to_search_in = "database"
 visualizer_data_source = "/tmp/mpd.fifo"
 visualizer_output_name = "Visualizer"
 visualizer_in_stereo = "no"
-visualizer_type = "ellipse"
+visualizer_type = "wave_filled"
 visualizer_fps = "60"
 visualizer_look = ●▮
 visualizer_color = "33,39,63,75,81,99,117,153,189"
